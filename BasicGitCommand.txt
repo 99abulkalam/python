@@ -1,0 +1,21 @@
+#Basic git command#
+-------------------
+*Add UserName/Email/Password
+	# git config --global user.name <"User_Name">
+	# git config --global user.email <"example.com">
+
+*Clone Central repo or GitHub
+	# git clone <URL of repo>
+
+*Add new file into git
+	# git add <file_name>
+
+*Commit
+	# git commit -m "Commit comment" <file_name>
+	# git commit -a -m "Commit comment" [-a for all file]
+
+*Push to Central repo
+	# git push -u origin master
+
+*Show git log
+	# git log
