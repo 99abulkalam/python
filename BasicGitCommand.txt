@@ -19,3 +19,5 @@
 
 *Show git log
 	# git log
+*Remove file from git Repo.. not from file system
+	# git rm --cached <file_name>
